@@ -15,6 +15,9 @@ Dependences:
 2. libsakcore.a, which is a library of mime. I will provide it's source in
 the future.
 
+Usage:
+$ ./gn2tw <your gn xml file> # there will be a corresponding tw html file generated.
+
 History:
 1.0
 ==========
